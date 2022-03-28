@@ -1,9 +1,5 @@
 # Initialize CPP projects [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-## :computer: Application Lifecycle Management
-
--   [Pitchfork Layout](https://api.csswg.org/bikeshed/?force=1&url=https://raw.githubusercontent.com/vector-of-bool/pitchfork/develop/data/spec.bs) a convention for laying out source, build, and resource files in a filesystem to aide in uniformity, tooling, understandability, and compartmentalization.
-
 ## :clipboard: Project guidelines
 
 -   [Pitchfork Layout](https://api.csswg.org/bikeshed/?force=1&url=https://raw.githubusercontent.com/vector-of-bool/pitchfork/develop/data/spec.bs) a convention for laying out source, build, and resource files in a filesystem to aide in uniformity, tooling, understandability, and compartmentalization.
@@ -22,7 +18,7 @@
 
 ## :computer: Application Lifecycle Management
 
--   Bitbucket
--   Jenkins
--   SonarQube
--   Nexus
+-   [Bitbucket](https://en.wikipedia.org/wiki/Bitbucket) to control version
+-   [Jenkins](https://en.wikipedia.org/wiki/Jenkins_(software)) to continuos integration
+-   [SonarQube](https://en.wikipedia.org/wiki/SonarQube) to static code analyzer
+-   [Nexus Repository OSS](https://www.sonatype.com/products/repository-oss?topnav=true) to save a internal libraries of components
